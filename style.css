@@ -1,0 +1,74 @@
+.container{
+    
+}
+.head-container{
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+
+    background: #F0FFF0;    
+}
+.header-p{
+    color: red;
+}
+.green-text{
+    color: lightgreen;
+}
+.my-button{
+    padding:10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.second-continer{
+    margin-top: 70px;
+}
+.card{
+    padding: 50px;
+    border: none;
+    background-color: lightgreen;
+}
+.third-container{
+    margin-top: 70px;
+}
+.third-card h5{
+    font-weight: bold;
+}
+.third-card h6{
+    color: gray;
+}
+.container h2{
+    text-align: center;
+}
+.last-cont{
+    margin-top: 70px;
+}
+.last-cont-div{
+
+}
+.last-cont-h2{
+    margin-bottom: 20px;
+}
+.man{
+    padding: 25px 25px;
+}
+.footer-cont{
+    margin-top: 70px;
+    background-color: black;
+    color: white;
+}
+.foter-li ul li{
+    list-style-type: none;
+}
+.foter-li ul li button{
+    padding: 0px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.small{
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+}
